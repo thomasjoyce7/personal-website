@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Math Instructor"
 collection: teaching
-type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Class 101 College Planning"
+type: "Internship"
+date: 2022-06-01
+location: "Bloomington, IN"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+As a summer math instructor at Class 101 College Planning, I tutored high school students in algebra, geometry, finite mathematics, and pre-calculus. I also directed test preparation classes and advised rising seniors in the college application process. 

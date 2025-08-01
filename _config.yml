@@ -263,7 +263,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 plugins:
   - jekyll-feed
   - jekyll-gist
-  - jekyll-paginate
+#  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji

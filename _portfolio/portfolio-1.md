@@ -2,7 +2,7 @@
 title: "Boston Marathon 2025"
 excerpt: >
   Time: 2:54:25<br/>
-  <img src="/images/Boston_Marathon_2025.jpg" width="200" height="300">
+  <img src="/personal-website/images/Boston_Marathon_2025.jpg" width="200" height="300">
 collection: portfolio
 ---
 

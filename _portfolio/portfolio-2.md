@@ -1,7 +1,7 @@
 ---
 title: "Carmel Marathon 2024"
 excerpt: >
-  Time: 2:54:25<br/>
+  Time: 2:49:52<br/>
   <img src="/personal-website/images/Carmel_Marathon_2024.jpg" width="200" height="300">
 collection: portfolio
 ---

@@ -1,6 +1,6 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'github-pages', group: :jekyll_plugins
-
-gem 'tzinfo-data'
-
+gem "jekyll", "~> 4.3"
+gem "minimal-mistakes-jekyll"
+gem "webrick"      # Required for Jekyll 4.3+
+gem "tzinfo-data"  # Windows fix

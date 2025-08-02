@@ -5,6 +5,8 @@ excerpt: >
   <img src="/personal-website/images/Carmel_Marathon_2024.jpg" width="200" height="300">
 collection: portfolio
 layout: single
+date: 2025-08-01
+show_date: false
 ---
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="11172961050" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>

@@ -2,7 +2,7 @@
 title: "Asheville Marathon 2026"
 excerpt: >
   Time: 2:49:52<br/>
-  <img src="/personal-website/images/Asheville_Marathon_2026.jpg" width="200" height="300">
+  <img src="/personal-website/images/Asheville_Marathon_2026.jpeg" width="200" height="300">
 collection: portfolio
 layout: single
 date: 2026-03-21

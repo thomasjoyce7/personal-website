@@ -19,7 +19,7 @@ Research Experience
 * November 2024 - Present: Graduate Research Assistant
   * University of North Carolina at Chapel Hill, Department of Biostatistics
   * Projects: 
-    * LLM embedding methods for time-varying tabular medication data in MIMIC-IV
+    * LLM-derived medication embeddings for longitudinal phenotyping in electronic health record data
   * Supervisor: Dr. Baiming Zou
 
 * October 2022 - June 2024: Undergraduate Research Assistant
@@ -36,8 +36,10 @@ Research Experience
   
 Skills
 ======
-* Programming: R, Python, Bash/Linux, Git, Docker, SQL 
-* Machine Learning: PyTorch, Scikit-learn
+* Programming: R, Python, Bash/Linux, SQL
+* Tools & Infrastructure: Git, Docker
+* Machine Learning: PyTorch, scikit-learn
+* AI/LLMs: Experience with large language models and AI agents
 
 Publications
 ======
@@ -60,4 +62,4 @@ Teaching
 Service and leadership
 ======
 * UNC Biostatistics Mentorship and Advice for Prospective Students Committee 
-* UNC Biostatistics Student Association Webmaster
+* UNC Biostatistics Student Association

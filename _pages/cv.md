@@ -39,7 +39,7 @@ Skills
 * Programming: R, Python, Bash/Linux, SQL
 * Tools & Infrastructure: Git, Docker
 * Machine Learning: PyTorch, scikit-learn
-* AI/LLMs: Experience with large language models and AI agents
+* AI/LLMs: Experience with building LLM-powered AI agents
 
 Publications
 ======
@@ -62,4 +62,4 @@ Teaching
 Service and leadership
 ======
 * UNC Biostatistics Mentorship and Advice for Prospective Students Committee 
-* UNC Biostatistics Student Association
+* UNC Graduate Biostatistics Student Association

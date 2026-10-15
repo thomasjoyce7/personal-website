@@ -1,12 +1,12 @@
 ---
-title: "Chicago Marathon 2026"
+title: "Carmel Marathon 2024"
 excerpt: >
-  Time: 2:54:35<br/>
-  <img src="/personal-website/images/Chicago_Marathon_2026.jpeg" width="200" height="300">
+  Time: 2:49:52<br/>
+  <img src="/personal-website/images/Carmel_Marathon_2024.jpg" width="200" height="300">
 collection: portfolio
 layout: single
-date: 2026-10-11
+date: 2025-04-13
 show_date: false
 ---
 
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="20544201174" data-style="standard" data-from-embed="false" data-token="vRdw_YLTZWZ65xVwHMvWHHMjvKq_6Jg2Mq3E31cyTXg"></div><script src="https://strava-embeds.com/embed.js"></script>
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="11172961050" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>

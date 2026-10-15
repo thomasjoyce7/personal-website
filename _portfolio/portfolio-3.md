@@ -1,12 +1,12 @@
 ---
-title: "Boston Marathon 2025"
+title: "Asheville Marathon 2026"
 excerpt: >
-  Time: 2:54:25<br/>
-  <img src="/personal-website/images/Boston_Marathon_2025.jpg" width="200" height="300">
+  Time: 2:49:40<br/>
+  <img src="/personal-website/images/Asheville_Marathon_2026.jpeg" width="200" height="300">
 collection: portfolio
 layout: single
-date: 2025-08-01
+date: 2026-03-21
 show_date: false
 ---
 
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="14244828177" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="17804299557" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>

@@ -5,7 +5,7 @@ excerpt: >
   <img src="/personal-website/images/Carmel_Marathon_2024.jpg" width="200" height="300">
 collection: portfolio
 layout: single
-date: 2025-04-13
+date: 2024-04-13
 show_date: false
 ---
 

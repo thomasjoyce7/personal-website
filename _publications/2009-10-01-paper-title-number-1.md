@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Mastery-Based Learning: An Analytical Approach to Providing Actionable Support"
 collection: publications
-category: manuscripts
+category: book_chapters
 date: '2025-04-09'
 venue: 'Cultivating Flourishing Practices and Environments by Embracing Positive Education'
 paperurl: 'https://www.igi-global.com/chapter/enhancing-mastery-based-learning-an-analytical-approach-to-providing-actionable-support/374765'
